@@ -57,7 +57,7 @@ For Software:
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+Add any extra demo materials/links
 
 ## Team Contributions
 - Janet Naveena: [HTML, CSS]
