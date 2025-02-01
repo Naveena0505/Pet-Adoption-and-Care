@@ -6,7 +6,7 @@
 
 
 ### Team Members
-- Member 1: [Naveena Janet]() - AISAT
+- Member 1: [Naveena Janet](https://github.com/Naveena0505) - AISAT
 - Member 2: [Fathima Nourin]() - AISAT
 - Member 3: [Jeeva Joshy]() - AISAT
 
