@@ -6,12 +6,10 @@
 
 
 ### Team Members
-- Member 1: [Naveena Janet] - [AISAT]
-- Member 2: [Fathima Nourin] - [AISAT]
-- Member 3: [Jeeva Joshy] - [AISAT]
+- Member 1: [Naveena Janet]() - AISAT
+- Member 2: [Fathima Nourin]() - AISAT
+- Member 3: [Jeeva Joshy]() - AISAT
 
-### Hosted Project Link
-[mention your project hosted project link here]
 
 ### Project Description
 [It is an animal adoption and caring website]
