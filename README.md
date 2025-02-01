@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [Naveena Janet](https://github.com/Naveena0505) - AISAT
-- Member 2: [Fathima Nourin]() - AISAT
-- Member 3: [Jeeva Joshy]() - AISAT
+- Member 1: [Janet Naveena](https://github.com/Naveena0505) - AISAT
+- Member 2: [Fathima Nourin](https://github.com/fanops) - AISAT
+- Member 3: [Jeeva Joshy](https://github.com/JeevaJ005) - AISAT
 
 
 ### Project Description
@@ -60,8 +60,8 @@ For Software:
 
 ## Team Contributions
 - [Naveena Janet]: [HTML, CSS]
-- [Jeeva Joshy]: [Javascript]
-- [Fathima Nourin]: [Readme]
+- [Jeeva Joshy]: [HTML,Javascript]
+- [Fathima Nourin]: [CSS, Readme]
 
 ---
 Made with ❤️ at TinkerHub
