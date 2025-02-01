@@ -18,7 +18,7 @@
 [Pet adoption is usually hard]
 
 ### The Solution
-[easy adoption of pets!]
+[Easy adoption of pets!]
 
 ## Technical Details
 ### Technologies/Components Used
