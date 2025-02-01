@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TailTopia</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">Pet Adoption and care</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#adopt">Adopt a Pet</a></li>
+        <li><a href="#care">Pet Care</a></li>
+        <li><a href="#tips">Pet Care Tips</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div class="menu-toggle" id="mobile-menu">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>Welcome to TailTopia</h1>
+    <p>Find your new best friend today!</p>
+    <a href="#adopt" class="btn">Adopt Now</a>
+  </section>
+
+  <section id="adopt" class="adopt">
+    <h2>Adopt a Pet</h2>
+    <div class="pet-grid">
+      <div class="pet-card">
+        <img src="dog.jpg" alt="Dog">
+        <h3>Buddy</h3>
+        <p>Friendly and playful dog.</p>
+        <button class="btn">Adopt Me</button>
+      </div>
+      <div class="pet-card">
+        <img src="cat.jpg" alt="Cat">
+        <h3>Whiskers</h3>
+        <p>Loves cuddles and naps.</p>
+        <button class="btn">Adopt Me</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="care" class="care">
+    <h2>Caring for Your Pet</h2>
+    <p>Learn how to take care of your new pet with our guides.</p>
+    <a href="#tips" class="btn">Learn More</a>
+  </section>
+
+  <section id="tips" class="tips">
+    <h2>Pet Care Tips</h2>
+    <ul>
+      <li> Provide Nutritious Food – Give species-appropriate, high-quality food. Avoid human food that may be toxic.</li>
+      <li> Fresh Water Always – Ensure clean water is available at all times.</li>
+      <li>Regular Vet Checkups – Prevent diseases with vaccinations and health checkups</li>
+      <li> Proper Grooming – Brush fur, trim nails, and clean ears as needed.</li>
+      <li>Pet-Proof Your Home – Keep harmful substances out of reach.</li>
+
+    </ul>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Us</h2>
+    <p>Welcome to <b><i>TailTopia</i></b> , where we believe every pet deserves a loving home. Our mission is to make pet adoption easier and to provide ongoing care and support for both pets and their new families.
+
+        Whether you're looking to adopt a furry friend or need advice on pet care, we are here to help. Our platform connects loving homes with pets in need, ensuring a safe and healthy transition for both. From adoption resources to expert pet care tips, we're dedicated to making sure every pet is cared for and loved.
+        
+        Join us in making a difference, one paw at a time!</p>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <form id="contact-form">
+      <input type="text" id="name" placeholder="Your Name" required>
+      <input type="email" id="email" placeholder="Your Email" required>
+     <button type="submit" class="btn">Send Message</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 PetAdopt. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
