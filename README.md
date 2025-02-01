@@ -3,30 +3,30 @@
 
 
 ## Basic Details
-### Team Name: [Hacktivate]
+### Team Name: Hacktivate
 
 
 ### Team Members
-- Member 1: [Janet Naveena](https://github.com/Naveena0505) - AISAT
-- Member 2: [Fathima Nourin](https://github.com/fanops) - AISAT
-- Member 3: [Jeeva Joshy](https://github.com/JeevaJ005) - AISAT
+- Member 1: Janet Naveena(https://github.com/Naveena0505) - AISAT
+- Member 2: Fathima Nourin(https://github.com/fanops) - AISAT
+- Member 3: Jeeva Joshy(https://github.com/JeevaJ005) - AISAT
 
 
 ### Project Description
-[It is an animal adoption and caring website]
+It is an animal adoption and caring website
 
 ### The Problem statement
-[Pet adoption is usually hard]
+Pet adoption is usually hard
 
 ### The Solution
-[Easy adoption of pets!]
+Easy adoption of pets!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML]
-- [CSS]
-- [Javascript]
+- HTML
+- CSS
+  Javascript
 
 
 ### Implementation
@@ -60,9 +60,9 @@ For Software:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Naveena Janet]: [HTML, CSS]
-- [Jeeva Joshy]: [HTML,Javascript]
-- [Fathima Nourin]: [CSS, Readme]
+- Janet Naveena: [HTML, CSS]
+- Jeeva Joshy: [HTML,Javascript]
+- Fathima Nourin: [CSS, Readme]
 
 ---
 Made with ❤️ at TinkerHub
