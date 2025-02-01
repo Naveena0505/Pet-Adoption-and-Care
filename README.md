@@ -2,98 +2,68 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Hacktivate]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Naveena Janet] - [AISAT]
+- Member 2: [Fathima Nourin] - [AISAT]
+- Member 3: [Jeeva Joshy] - [AISAT]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[It is an animal adoption and caring website]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Pet adoption is usually hard]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[easy adoption of pets!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML]
+- [CSS]
+- [Javascript]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[Null]
 
 # Run
-[commands]
+[]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](https://drive.google.com/file/d/1xxAmsHS_2nyTCPPDpJaQvaczsOF0hiwW/view?usp=sharing)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://drive.google.com/file/d/1XzhoaH5u1NZ2wHK30kXUQTFYdNQpy0mL/view?usp=sharing)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://drive.google.com/file/d/1T6jwKjJvNDoAJM-4_w0YRdwV3nPu8KbM/view?usp=drive_link)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1ynF5uloFvH0mVQzr1z2wcgprXZAlB3ib/view?usp=sharing]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Naveena Janet]: [HTML, CSS]
+- [Jeeva Joshy]: [Javascript]
+- [Fathima Nourin]: [Readme]
 
 ---
 Made with ❤️ at TinkerHub
